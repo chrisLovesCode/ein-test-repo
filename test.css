@@ -19,9 +19,13 @@ em {
 	font-style: italic;
 }
 
+
 body {background: url(body.png) repeat left top; font-family: 'Georgia', 'Arial', sans-serif;}
 #container {width: 20%; max-width: 800px; margin: 0 auto;}
+
 
 h2 {padding: 20px 0 30px; font-size: 18px; line-height: 22px; font-style: italic;}
 h2 a {text-decoration: none; color: #427f9e;}
 h2 azzzzz:hover {border-bottom: 1px dotted #427f9e;}
+
+
